@@ -17,6 +17,7 @@ FLOWS = [
     "esphome",
     "geofency",
     "gpslogger",
+    "han_solo",
     "hangouts",
     "heos",
     "homekit_controller",
